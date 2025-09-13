@@ -1,0 +1,46 @@
+FileGenious - Functionalities Overview
+=====================================
+
+1. Bulk File Management
+   - Move, copy, rename, and organize files and folders in batches
+   - Filter and select files by type, size, or date
+
+2. Image Processing
+   - Resize, convert, and optimize images
+   - Extract and edit EXIF metadata
+   - Detect and remove duplicate or similar images
+   - Support for RAW and common image formats
+
+3. Media Conversion
+   - Convert audio and video files between formats
+   - Batch process media files
+   - Extract audio from video files
+
+4. Archive and Compression
+   - Extract and create 7z, RAR, and ZIP archives
+   - Secure ZIP creation with password protection
+
+5. Database Integration
+   - Store and retrieve file metadata using MongoDB
+
+6. Payment and Licensing
+   - PayPal payment integration
+   - Activation key and affiliate code management
+
+7. Progress Tracking and Logging
+   - Visual progress bars for all operations
+   - Detailed logs of all actions and errors
+
+8. User Interface
+   - Modern, easy-to-use graphical interface
+   - Drag-and-drop file selection
+   - Contextual menus and tooltips
+
+9. Security
+   - Secure password handling (bcrypt)
+   - Automatic backup of previous executable version
+
+10. Portability
+    - Distributed as a single Windows executable
+    - No installation or admin rights required
+
