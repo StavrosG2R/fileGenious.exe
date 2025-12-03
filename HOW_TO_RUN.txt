@@ -1,0 +1,50 @@
+================================================================================
+                    HOW TO RUN FILE GENIOUS ON WINDOWS
+================================================================================
+
+When you first run fileGenious.exe, Windows may show a security warning.
+This is normal for applications that aren't digitally signed with a paid 
+certificate. File Genious is safe to run.
+
+--------------------------------------------------------------------------------
+STEP-BY-STEP INSTRUCTIONS:
+--------------------------------------------------------------------------------
+
+1. Double-click fileGenious.exe
+
+2. Windows will show: "Windows protected your PC"
+   
+3. Click "More info" (small text link)
+
+4. Click "Run anyway" button
+
+5. File Genious will start normally
+
+--------------------------------------------------------------------------------
+WHY DOES THIS HAPPEN?
+--------------------------------------------------------------------------------
+
+- Windows shows this warning for unsigned applications
+- Code signing certificates cost $100-400 per year
+- As a new application, we haven't purchased a certificate yet
+- This is common for independent software developers
+
+--------------------------------------------------------------------------------
+IS IT SAFE?
+--------------------------------------------------------------------------------
+
+Yes! File Genious is:
+✓ Scanned by Windows Defender automatically
+✓ Built with Python and standard libraries
+✓ Does not contain viruses or malware
+
+You only need to click "Run anyway" once. Windows will remember your choice.
+
+--------------------------------------------------------------------------------
+NEED HELP?
+--------------------------------------------------------------------------------
+
+Visit: https://github.com/StavrosG2R/fileGenious.exe
+Email: versasyncgr@gmail.com
+
+================================================================================
